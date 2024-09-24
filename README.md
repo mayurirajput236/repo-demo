@@ -1,2 +1,1 @@
-# repo-demo
-This is the first repository of my github account
+This is my first github repository
